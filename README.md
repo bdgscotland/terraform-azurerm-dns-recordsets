@@ -1,5 +1,7 @@
 # Azure DNS Recordsets Module
 
+Note: The module on the terraform registry does NOT work. This one DOES.
+
 This module manages DNS recordsets in a given Azure DNS zone. It is part of
 [the `terraformdns` project](https://terraformdns.github.io/).
 
